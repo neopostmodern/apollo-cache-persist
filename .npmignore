@@ -1,8 +1,5 @@
-tsconfig.cjs.json
-tsconfig.json
 codecov.yml
 renovate.json
-rollup.config.mjs
 coverage
 .vscode
 scripts
